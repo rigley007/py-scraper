@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+<HTML>
+
+<HEAD>
+   <TITLE>University of Louisiana at Lafayette: Schedule of Classes</TITLE>
+   <link rel="stylesheet" href="/EDBC/common/infosystem.css" type="text/css">
+</HEAD>
+
+<BODY>
+<table class="masthead" align=center>
+<TR>
+   <TD width="250">
+      <A href="http://www.louisiana.edu"><img src="../graphics/UL-lightgray.gif" 
+      alt="University of Louisiana at Lafayette" border="0" align="middle"></A>
+   </TD>
+   <TD width="362"><span class="masthead">
+     Schedule <BR>
+     of Classes
+      </span>
+   </TD>
+</TR>
+</table>
+
+
+<table class="body" align="center">
+<TR><TD>
+<BR>
+
+
+
+
+
+
+<form action="newspaper01.jsp" method="post">
+<table align=center width="600" border=0   bgcolor="#CCC8AF" cellspacing="0" cellborder="0">
+<TR>
+   <TD align="center"><span class="onBlueText">Computer Sci and Computer Eng </span></TD></tr>
+   <td align="center"><span class="onBlueText">Courses</span></td>
+   <td align="center">&nbsp;</td>
+</tr>
+
+<tr>
+   <td align="center">
+      <select name="course">
+      <option selected>Please select a course</option>
+
+      
+         <option value="500  ">
+            CSCE 500   - Design&Analysis of Algorithms  
+         </option>
+      
+         <option value="502  ">
+            CSCE 502   - Comp. Basis of Bioinformatics  
+         </option>
+      
+         <option value="503  ">
+            CSCE 503   - Computational Genomics         
+         </option>
+      
+         <option value="506  ">
+            CSCE 506   - System-Theory                  
+         </option>
+      
+         <option value="507  ">
+            CSCE 507   - Digital Signal Processing      
+         </option>
+      
+         <option value="508  ">
+            CSCE 508   - Image Processing               
+         </option>
+      
+         <option value="509  ">
+            CSCE 509   - Pattern Recognition            
+         </option>
+      
+         <option value="512  ">
+            CSCE 512   - Network Security               
+         </option>
+      
+         <option value="513  ">
+            CSCE 513   - Prin of Cmp Communicat&Network 
+         </option>
+      
+         <option value="514  ">
+            CSCE 514   - Error-Control Code for Cmp Sys 
+         </option>
+      
+         <option value="515  ">
+            CSCE 515   - Principles of Computer Graphic 
+         </option>
+      
+         <option value="516  ">
+            CSCE 516   - Cryptography and Data Security 
+         </option>
+      
+         <option value="517  ">
+            CSCE 517   - Digital Technique in Telecomms 
+         </option>
+      
+         <option value="518  ">
+            CSCE 518   - Lossless&Lossy Data Compressn  
+         </option>
+      
+         <option value="520  ">
+            CSCE 520   - Prin Of Artificial Intelligen  
+         </option>
+      
+         <option value="521  ">
+            CSCE 521   - Automated Reasoning            
+         </option>
+      
+         <option value="523  ">
+            CSCE 523   - Computat Basis of Intelligence 
+         </option>
+      
+         <option value="525  ">
+            CSCE 525   - Cmp-Cntrl Based Robot&Auto Sys 
+         </option>
+      
+         <option value="526  ">
+            CSCE 526   - Intel Mach: Theory,Design&Appl 
+         </option>
+      
+         <option value="527  ">
+            CSCE 527   - Cognitive Science I            
+         </option>
+      
+         <option value="528  ">
+            CSCE 528   - Cognitive Science II           
+         </option>
+      
+         <option value="530  ">
+            CSCE 530   - Principles of Cmp Architecture 
+         </option>
+      
+         <option value="531  ">
+            CSCE 531   - Parallel Processing Organizatn 
+         </option>
+      
+         <option value="533  ">
+            CSCE 533   - Distributed Computing Systems  
+         </option>
+      
+         <option value="534  ">
+            CSCE 534   - Model&Perform Eval of Cmp Syst 
+         </option>
+      
+         <option value="535  ">
+            CSCE 535   - Intro to Data Par Algor&Arch   
+         </option>
+      
+         <option value="536  ">
+            CSCE 536   - Embedded System Design         
+         </option>
+      
+         <option value="538  ">
+            CSCE 538   - Entertainment Computing        
+         </option>
+      
+         <option value="540  ">
+            CSCE 540   - Prin of Theory of Computation  
+         </option>
+      
+         <option value="541  ">
+            CSCE 541   - Automata Theory                
+         </option>
+      
+         <option value="542  ">
+            CSCE 542   - Formal Languages               
+         </option>
+      
+         <option value="550  ">
+            CSCE 550   - Principles of Program Language 
+         </option>
+      
+         <option value="551  ">
+            CSCE 551   - Principles of Compiler Design  
+         </option>
+      
+         <option value="553  ">
+            CSCE 553   - Prin of Software Methodology   
+         </option>
+      
+         <option value="555  ">
+            CSCE 555   - Prin of Operatng System Theory 
+         </option>
+      
+         <option value="556  ">
+            CSCE 556   - Software Requiremnt&Specificat 
+         </option>
+      
+         <option value="557  ">
+            CSCE 557   - Software Testing&Verification  
+         </option>
+      
+         <option value="561  ">
+            CSCE 561   - Info Storage and Retrieval     
+         </option>
+      
+         <option value="562  ">
+            CSCE 562   - Prin of Database Mgmt Systems  
+         </option>
+      
+         <option value="564  ">
+            CSCE 564   - Information Retrieval Theory   
+         </option>
+      
+         <option value="565  ">
+            CSCE 565   - Advanced Database Systems      
+         </option>
+      
+         <option value="566  ">
+            CSCE 566   - Data Mining                    
+         </option>
+      
+         <option value="572  ">
+            CSCE 572   - Combinat And Geom Algorithms   
+         </option>
+      
+         <option value="573  ">
+            CSCE 573   - Analog VLSI Design             
+         </option>
+      
+         <option value="575  ">
+            CSCE 575   - Wireless Computing&Netwk Syst  
+         </option>
+      
+         <option value="576  ">
+            CSCE 576   - Mobile Computing&Applications  
+         </option>
+      
+         <option value="581  ">
+            CSCE 581   - Logic Design&Switching Theory  
+         </option>
+      
+         <option value="582  ">
+            CSCE 582   - Computer Arithmetic            
+         </option>
+      
+         <option value="583  ">
+            CSCE 583   - Cmp Design and Implementation  
+         </option>
+      
+         <option value="584  ">
+            CSCE 584   - Fault Diagnosis of Digital Sys 
+         </option>
+      
+         <option value="585  ">
+            CSCE 585   - VLSI Design                    
+         </option>
+      
+         <option value="586  ">
+            CSCE 586   - VLSI Architecture              
+         </option>
+      
+         <option value="587  ">
+            CSCE 587   - VLSI Fabrication Principles    
+         </option>
+      
+         <option value="588  ">
+            CSCE 588   - Neural Networks                
+         </option>
+      
+         <option value="589  ">
+            CSCE 589   - Intro to Fuzzy Logic Systems   
+         </option>
+      
+         <option value="590  ">
+            CSCE 590   - Special Project                
+         </option>
+      
+         <option value="591  ">
+            CSCE 591   - Scholarly Paper                
+         </option>
+      
+         <option value="595  ">
+            CSCE 595   - Graduate Seminar               
+         </option>
+      
+         <option value="598  ">
+            CSCE 598   - Special Topics                 
+         </option>
+      
+         <option value="599  ">
+            CSCE 599   - Thesis Research and Thesis     
+         </option>
+      
+         <option value="608  ">
+            CSCE 608   - Thry & Paradigm in Mach Vision 
+         </option>
+      
+         <option value="609  ">
+            CSCE 609   - Advanced Topics in Mach Vision 
+         </option>
+      
+         <option value="613  ">
+            CSCE 613   - Adv Topics in Cmp Communicatn  
+         </option>
+      
+         <option value="614  ">
+            CSCE 614   - Fault-Tolerant Computing       
+         </option>
+      
+         <option value="615  ">
+            CSCE 615   - Virtual Reality                
+         </option>
+      
+         <option value="619  ">
+            CSCE 619   - Adv Topics in Computer Science 
+         </option>
+      
+         <option value="629  ">
+            CSCE 629   - Adv Topic in Artificl Intellig 
+         </option>
+      
+         <option value="631  ">
+            CSCE 631   - Advanced Parallel Processing   
+         </option>
+      
+         <option value="639  ">
+            CSCE 639   - Adv Topics in Cmp Architecture 
+         </option>
+      
+         <option value="641  ">
+            CSCE 641   - Advanced Automata Theory       
+         </option>
+      
+         <option value="642  ">
+            CSCE 642   - Advanced Formal Languages      
+         </option>
+      
+         <option value="645  ">
+            CSCE 645   - Model of Software Info Content 
+         </option>
+      
+         <option value="649  ">
+            CSCE 649   - Adv Topic the Theory of Comput 
+         </option>
+      
+         <option value="650  ">
+            CSCE 650   - Lang Proc for Distributed Syst 
+         </option>
+      
+         <option value="653  ">
+            CSCE 653   - Advanced Software Methodology  
+         </option>
+      
+         <option value="655  ">
+            CSCE 655   - Advanced Operating Systems     
+         </option>
+      
+         <option value="659  ">
+            CSCE 659   - Adv Topic in Cmp Software Syst 
+         </option>
+      
+         <option value="661  ">
+            CSCE 661   - Database Theory                
+         </option>
+      
+         <option value="662  ">
+            CSCE 662   - Info Syst for Minicmps&Netwrk  
+         </option>
+      
+         <option value="669  ">
+            CSCE 669   - Adv Topics in Cmp Info Systems 
+         </option>
+      
+         <option value="679  ">
+            CSCE 679   - Advanced Topics in CAD/CAM     
+         </option>
+      
+         <option value="689  ">
+            CSCE 689   - Adv Topics in Hardware Design  
+         </option>
+      
+         <option value="695  ">
+            CSCE 695   - Doctoral Seminar               
+         </option>
+      
+         <option value="699  ">
+            CSCE 699   - Dissertation                   
+         </option>
+      
+         <option value="899  ">
+            CSCE 899   - Examinations Only              
+         </option>
+      
+      </select>
+   </TD>
+
+</tr>
+<tr>
+   <td valign="middle" align="center" colspan="2">
+      <input type="checkbox" name="avail" value="YES">
+      <span class="onBlueText">
+         &nbsp;Show classes with seats remaining only
+      </span>
+   </td>
+</tr>
+</table>
+
+<br>
+<input type="hidden" name="subject" value="CSCE">
+<input type="hidden" name="term" value="SP15">
+
+<div align="center">
+<input type="submit" value="Find Sections Now"></form><BR><BR>
+</div>
+</form>
+  
+
+
+
+<TR><TD align="center" valign="middle">
+   <img src="/EDBC/common/bar.gif" height="4" width="600" valign="middle">
+   <A HREF="newspaper00.jsp">Search again?</A> 
+   <img src="/EDBC/common/bar.gif" height="4" width="600" valign="middle">
+</td></TR>
+
+
+<TR> <TD align="center">
+
+<table align="center" border=0>
+<tr><td>
+<span class="tail">
+
+&copy; Copyright 2002-2006 by 
+<A HREF="http://www.louisiana.edu">University of Louisiana at Lafayette</a>
+
+<br>
+
+Office of Information Systems, P.O. Box 41770, Lafayette, LA 70504
+
+<br>
+
+Electronic Mail: 
+<a href="mailto:infosystem@louisiana.edu">infosystem@louisiana.edu</a>
+</td></tr></table>
+</span>
+
+
+</TD>
+</TR>
+</TABLE>
+
+
+</center>
+
+
+</BODY>
+</HTML>
+
+
+
