@@ -10,11 +10,5 @@ data=data.encode("utf8")
 
 req=request.urlopen(url,data)
 
-s=req.read()
-
-s=s.decode("utf8")
-
-with open("temphtml.html","w") as f:
-	print(s,file=f)
-pass
+print req
 
